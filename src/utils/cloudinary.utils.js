@@ -20,4 +20,4 @@ cloudinary.config({
     }
  }
 
- export {UploadToCloudinary}
+ export {UploadToCloudinary};
